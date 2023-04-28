@@ -1,0 +1,21 @@
+main {
+	width:80%;
+	border:1px solid black;
+	border-radius:5px;
+	padding:2em;
+	font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
+}
+
+.statblock {
+	display:flex;
+	gap:4em;
+}
+
+#move-resolution {
+	overflow-y:scroll;
+	height:15em;
+}
+
+#reset {
+	height:2em;
+}
